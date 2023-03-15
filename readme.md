@@ -16,9 +16,6 @@
 ## 🎨 Layout
 - layout was done using Scss
 
-<img src="https://storagelonder.w3spaces.com/geradorDias/Screenshot_2022-11-10_at_11.36.12.png" />
-
-
 ## 🚀 How to run the project
 
 1. To run the app type in your terminal "npm run dev"
